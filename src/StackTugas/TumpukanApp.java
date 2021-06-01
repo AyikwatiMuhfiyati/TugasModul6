@@ -29,5 +29,8 @@ public class TumpukanApp {
         
         long nilai1 = tumpukan.peek();
         System.out.println("nilai top = "+nilai1);
+        
+        System.out.println();
+        System.out.println("Ayikwati Muhfiyati");
     }
 }
